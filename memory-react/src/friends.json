@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "apu",
+    "image": "./images/apu.png"
+  },
+  {
+    "id": 2,
+    "name": "bart",
+    "image": "./images/bart.png"
+  },
+  {
+    "id": 3,
+    "name": "burns",
+    "image": "./images/burns.png"
+  },
+  {
+    "id": 4,
+    "name": "edna",
+    "image": "./images/edna.png"
+  },
+  {
+    "id": 5,
+    "name": "home",
+    "image": "./images/homer.png"
+  },
+  {
+    "id": 6,
+    "name": "homer",
+    "image": "./images/krusty.png"
+  },
+  {
+    "id": 7,
+    "name": "lisa",
+    "image": "./images/lisa.png"
+  },
+  {
+    "id": 8,
+    "name": "marge",
+    "image": "./images/marge.png"
+  },
+  {
+    "id": 9,
+    "name": "millhouse",
+    "image": "./images/millhouse.png"
+  },
+  {
+    "id": 10,
+    "name": "moe",
+    "image": "./images/moe.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "ned",
+    "image": "./images/ned.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "smithers",
+    "image": "./images/smithers.jpeg"
+  }
+]
